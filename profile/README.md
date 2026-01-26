@@ -1,4 +1,4 @@
-Official GitHub organization of the [COAT](https://coat.no/) project.
+# Official GitHub organization of the [COAT](https://coat.no/) project.
 
 <details>
 <summary>🗃️ Datacatalog</summary>
