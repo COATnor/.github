@@ -2,6 +2,7 @@ Official repository of the [COAT](https://coat.no/) project.
 
 <details>
 <summary>Datacatalog</summary>
+  
 The datacatalog is based on [CKAN](https://ckan.org/).
   
 - [datacatalog](https://github.com/COATnor/datacatalog): main code
