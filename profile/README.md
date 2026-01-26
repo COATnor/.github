@@ -1,4 +1,4 @@
-# Official GitHub organization of the [COAT](https://coat.no/) project.
+# Official GitHub organization of the Climate-ecological Observatory of Arctic Tundra ([COAT](https://coat.no/)).
 
 <details>
 <summary>🗃️ Datacatalog</summary>
@@ -18,6 +18,15 @@ Here is an overview of all the public repositories that are part of the datacata
   - [ckan](https://github.com/COATnor/ckan): base Docker images
   - [coat2pycsw](https://github.com/COATnor/coat2pycsw): compatibility layer for [SIOS](https://github.com/SIOS-Svalbard)
   - [coat-bulk-download](https://github.com/COATnor/coat-bulk-download): provide datasets as ZIP files on demand
+
+</details>
+
+<details>
+<summary> COAT Data Portal example scripts</summary>
+
+Here is an overview of the example scripts available:
+
+- [coat_data_portal_example_scripts](https://github.com/COATnor/coat_data_portal_example_scripts): Collection of example scripts that will help you create, upload and download datasets and state variables to the COAT Data Portal.
 
 </details>
 
