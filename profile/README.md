@@ -3,11 +3,14 @@ Official GitHub organization of the [COAT](https://coat.no/) project.
 <details>
 <summary>🗃️ Datacatalog</summary>
 
-The datacatalog is available at [data.coat.no](https//data.coat.no).
-The user documentation is available at [coatnor.github.io](https://coatnor.github.io).
+The datacatalog is made of different components:
 
-It is made of different components:
-  
+- 🌍 [data.coat.no](https//data.coat.no): the datacatalog
+- 🌍 [coatnor.github.io](https://coatnor.github.io): user documentation
+- 🌍 [apps.coat.no](https://apps.coat.no): R Shiny apps
+
+Here is an overview of all the public repositories that are part of the datacatalog:
+
 - 🌟 [datacatalog](https://github.com/COATnor/datacatalog): main code repository (based on [CKAN](https://ckan.org/))
 - 📖 [coatnor.github.io](https://github.com/COATnor/coatnor.github.io): user documentation
 - ⚙️ Datacatalog custom extensions
@@ -16,6 +19,7 @@ It is made of different components:
   - [ckanext-scheming](https://github.com/COATnor/ckanext-scheming): fork of [ckan/ckanext-scheming](https://github.com/ckan/ckanext-scheming) containing a fix for https://github.com/ckan/ckanext-scheming/issues/387
   - [ckanext-oauth2](https://github.com/COATnor/ckanext-oauth2): fork of [conwetlab/ckanext-oauth2](https://github.com/conwetlab/ckanext-oauth2) containing fixes for Python 3 and compatibility for [Feide](https://www.feide.no/)
 - 🧰 Additional components
+  - [apps](https://github.com/COATnor/apps): R Shiny apps
   - [ckan](https://github.com/COATnor/ckan): base Docker images
   - [coat2pycsw](https://github.com/COATnor/coat2pycsw): compatibility layer for [SIOS](https://github.com/SIOS-Svalbard)
   - [coat-bulk-download](https://github.com/COATnor/coat-bulk-download): provide datasets as ZIP files on demand
