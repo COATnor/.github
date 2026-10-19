@@ -22,11 +22,53 @@ Here is an overview of all the public repositories that are part of the datacata
 </details>
 
 <details>
-<summary> COAT Data Portal example scripts</summary>
+<summary>🧰 COAT Data Portal example scripts</summary>
 
-Here is an overview of the example scripts available:
+The following repository contains examples demonstrating how to create, upload,
+and download datasets and state variables to the COAT Data Portal.
 
-- [coat_data_portal_example_scripts](https://github.com/COATnor/coat_data_portal_example_scripts): Collection of example scripts that will help you create, upload and download datasets and state variables to the COAT Data Portal.
+- [coat_data_portal_example_scripts](https://github.com/COATnor/coat_data_portal_example_scripts)
+
+</details>
+
+<details>
+<summary>🌡️ Climate module</summary>
+
+The Climate module contains scripts for calculating COAT climate-related state
+variables.
+
+- [State-variable scripts](https://github.com/COATnor/climate_module/tree/main/state_variable_scripts)
+
+</details>
+
+<details>
+<summary>🦌 Svalbard ungulate module</summary>
+
+The Svalbard ungulate module contains scripts for calculating state variables
+related to ungulate populations and their dynamics.
+
+- [State-variable scripts](https://github.com/COATnor/ungulate_module_svalbard/tree/main/state_variables)
+
+</details>
+
+<details>
+<summary>🐭 Small rodent module</summary>
+
+The Small rodent module contains scripts for calculating COAT state variables
+related to small rodent populations.
+
+- [State-variable scripts](https://github.com/COATnor/small_rodent_module/tree/main/state_variable_scripts)
+
+</details>
+
+<details>
+<summary>🦊 Arctic fox module</summary>
+
+The Arctic fox module contains an integrated population model (IPM) for the
+Svalbard Arctic fox population. The IPM combines data from multiple monitoring
+sources to estimate demographic rates and population dynamics.
+
+- [Svalbard Arctic fox integrated population model](https://github.com/COATnor/S_arcticfox_IPM)
 
 </details>
 
