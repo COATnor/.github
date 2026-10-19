@@ -32,54 +32,50 @@ and download datasets and state variables to the COAT Data Portal.
 </details>
 
 <details>
-<summary>🌡️ Climate module</summary>
+<summary>📦 Module-specific scripts</summary>
+
+The following repositories contain scripts associated with specific COAT
+monitoring modules.
+
+### 🌡️ Climate module
 
 The Climate module contains scripts for calculating COAT climate-related state
 variables.
 
 - [State-variable scripts](https://github.com/COATnor/climate_module/tree/main/state_variable_scripts)
 
-</details>
-
-<details>
-<summary>🦌 Svalbard ungulate module</summary>
+### 🦌 Svalbard ungulate module
 
 The Svalbard ungulate module contains scripts for calculating state variables
 related to ungulate populations and their dynamics.
 
 - [State-variable scripts](https://github.com/COATnor/ungulate_module_svalbard/tree/main/state_variables)
 
-</details>
-
-<details>
-<summary>🐭 Small rodent module</summary>
+### 🐭 Small rodent module
 
 The Small rodent module contains scripts for calculating COAT state variables
 related to small rodent populations.
 
 - [State-variable scripts](https://github.com/COATnor/small_rodent_module/tree/main/state_variable_scripts)
 
-</details>
-
-<details>
-<summary>🦊 Arctic fox module</summary>
+### 🦊 Arctic fox module
 
 The Arctic fox module contains an integrated population model (IPM) for the
-Svalbard Arctic fox population. The IPM combines data from multiple monitoring
-sources to estimate demographic rates and population dynamics.
+Svalbard Arctic fox population.
 
 - [Svalbard Arctic fox integrated population model](https://github.com/COATnor/S_arcticfox_IPM)
 
 </details>
 
 <details>
-<summary>📐 Maps and graphs</summary>
+<summary> 📊 Maps and graphics</summary>
 
-The R Shiny apps available at [apps.coat.no](https://apps.coat.no).
+The R Shiny apps are available at [apps.coat.no](https://apps.coat.no).
 
-The source code is available at [apps](https://github.com/COATnor/apps).
+The source code is available in the
+[apps repository](https://github.com/COATnor/apps).
 
 - 🗺️🦊 [Red fox tracks](https://apps.coat.no/red_fox_tracks/)
 - 📈🐭 [Small rodents abundance](https://apps.coat.no/small_rodents_abundance/)
 
-</detail>
+</details>
