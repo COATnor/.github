@@ -17,7 +17,6 @@ Here is an overview of all the public repositories that are part of the datacata
 - 🧰 Additional components
   - [ckan](https://github.com/COATnor/ckan): base Docker images
   - [coat2pycsw](https://github.com/COATnor/coat2pycsw): compatibility layer for [SIOS](https://github.com/SIOS-Svalbard)
-  - [coat-bulk-download](https://github.com/COATnor/coat-bulk-download): provide datasets as ZIP files on demand
 
 </details>
 
